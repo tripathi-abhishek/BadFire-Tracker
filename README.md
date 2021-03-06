@@ -20,4 +20,4 @@ You will need to add your Google Maps API key in the Map.js component and regist
 
 #screenshots
 
-[BadFire Tracker](https://i.imgur.com/1D9sV0q.jpg)
+![BadFire Tracker](https://i.imgur.com/1D9sV0q.jpg)
