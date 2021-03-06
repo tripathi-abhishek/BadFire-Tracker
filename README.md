@@ -17,3 +17,7 @@ yarn build
 ## API Keys
 
 You will need to add your Google Maps API key in the Map.js component and register for a NASA API key at https://api.nasa.gov. If you deploy, please move the keys to a safe place
+
+#screenshots
+
+[BadFire Tracker](https://i.imgur.com/1D9sV0q.jpg)
